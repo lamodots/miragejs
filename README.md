@@ -1,7 +1,7 @@
 # miragejs
 
 ## Key points
-`1. What is the primary reason to use a nested route?
+``1. What is the primary reason to use a nested route?
 Whenever we have some shared UI between routes in our app.
 
 
@@ -21,4 +21,4 @@ children routes. It renders the matching child route's
 It's the "default route" we want to render when the path
 of the parent route matches. It gives us a chance to render
 an element inside the parent's <Outlet /> at the same path
-as the parent route.`
+as the parent route.``
